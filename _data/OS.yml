@@ -1,8 +1,32 @@
 ---
+Cloud:
+  label: Cloud
+  description: Command can be run in a cloud environment (e.g., AWS, Azure, GCP).
+
+Local:
+  label: Local
+  description: Command can be run on a local machine.
+
+Docker:
+  label: Docker
+  description: Command can be executed inside a Docker container.
+
+Kubernetes:
+  label: Kubernetes
+  description: Command can be run within a Kubernetes cluster.
+
 Linux:
   label: Linux
-  description: Command can be run on Linux.
+  description: Command can be executed in a Linux environment.
 
 Windows:
   label: Windows
-  description: Command can be run on Windows.
+  description: Command can be executed in a Windows environment.
+
+MacOS:
+  label: MacOS
+  description: Command can be executed in a MacOS environment.
+
+Edge:
+  label: Edge
+  description: Command can be executed on edge devices for on-site LLM applications.
