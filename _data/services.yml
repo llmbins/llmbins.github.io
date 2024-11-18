@@ -1,32 +1,70 @@
 ---
-SMB:
-  label: SMB
-  description: You've found the SMB service open  and need to know what you can do with it.
+OpenAI:
+  label: OpenAI
+  description: You've found the OpenAI API available and need to know what you can do with it.
 
-WMI:
-  label: WMI
-  description: You've found the Windows Management Intstrumentation (WMI) service open and need to know what you can do with it.
+HuggingFace:
+  label: Hugging Face
+  description: You've found Hugging Face tools or models available and need to know how to use them.
 
-DCOM:
-  label: DCOM
-  description: You've found the DCOM service open and need to know what you can do with it.
+Anthropic:
+  label: Anthropic
+  description: You've found the Anthropic API available and need to know what you can do with it.
 
-Kerberos:
-  label: Kerberos
-  description: You've found the kerberos service open and need to know what you can do with it.
+Cohere:
+  label: Cohere
+  description: You've found the Cohere API available and need to know what you can do with it.
 
-RPC:
-  label: RPC
-  description: You've found the RPC service open and need to know what you can do with it.
+AWS_Sagemaker:
+  label: AWS Sagemaker
+  description: You've found AWS Sagemaker available and need to know how to deploy or interact with it.
 
-LDAP:
-  label: LDAP
-  description: You've found the LDAP service open and need to know what you can do with it.
+Azure_OpenAI:
+  label: Azure OpenAI
+  description: You've found the Azure OpenAI Service available and need to know what you can do with it.
 
-NTLM:
-  label: NTLM
-  description: Command relates to the NTLM protocol.
+Google_AI:
+  label: Google AI
+  description: You've found Google AI tools or APIs available and need to know how to use them.
 
-DNS:
-  label: DNS
-  description: Command relates to the DNS service.
+LangChain:
+  label: LangChain
+  description: You've found LangChain and need to know how to build workflows or chains with it.
+
+LLAMA:
+  label: LLAMA
+  description: You've found the LLAMA model available and need to know how to use it.
+
+TensorFlow:
+  label: TensorFlow
+  description: You've found TensorFlow available and need to know how to train or deploy models with it.
+
+PyTorch:
+  label: PyTorch
+  description: You've found PyTorch available and need to know how to train or deploy models with it.
+
+REST_API:
+  label: REST API
+  description: You've found a REST API and need to know how to interact with it for LLM tasks.
+
+GraphQL:
+  label: GraphQL
+  description: You've found a GraphQL API and need to know how to interact with it for LLM tasks.
+
+Docker:
+  label: Docker
+  description: You've found Docker available and need to know how to containerize and deploy LLM workflows.
+
+Kubernetes:
+  label: Kubernetes
+  description: You've found Kubernetes available and need to know how to orchestrate LLM deployments.
+
+Redis:
+  label: Redis
+  description: You've found Redis available and need to know how to use it for caching or queueing LLM results.
+
+MongoDB:
+  label: MongoDB
+  description: You've found MongoDB available and need to know how to store and retrieve LLM-related data.
+
+
