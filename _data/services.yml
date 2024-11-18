@@ -1,60 +1,70 @@
 ---
-API_Key:
-  label: API Key
-  description: You have an API key and need to know what you can do with it.
+OpenAI:
+  label: OpenAI
+  description: You've found the OpenAI API available and need to know what you can do with it.
 
-Prompt:
-  label: Prompt
-  description: You have a prompt and need to know how to improve or optimize it.
+HuggingFace:
+  label: Hugging Face
+  description: You've found Hugging Face tools or models available and need to know how to use them.
 
-Model_Checkpoint:
-  label: Model Checkpoint
-  description: You have a model checkpoint and need to know how to load or fine-tune it.
+Anthropic:
+  label: Anthropic
+  description: You've found the Anthropic API available and need to know what you can do with it.
 
-Tokens:
-  label: Tokens
-  description: You need to manage token usage and understand their limitations.
+Cohere:
+  label: Cohere
+  description: You've found the Cohere API available and need to know what you can do with it.
 
-Dataset:
-  label: Dataset
-  description: You have a dataset and need to know how to preprocess or use it for training.
+AWS_Sagemaker:
+  label: AWS Sagemaker
+  description: You've found AWS Sagemaker available and need to know how to deploy or interact with it.
 
-Response:
-  label: Response
-  description: You have a model's response and want to analyze or refine it.
+Azure_OpenAI:
+  label: Azure OpenAI
+  description: You've found the Azure OpenAI Service available and need to know what you can do with it.
 
-Logs:
-  label: Logs
-  description: You have logs from a model interaction and need to debug or analyze them.
+Google_AI:
+  label: Google AI
+  description: You've found Google AI tools or APIs available and need to know how to use them.
 
-Embedding:
-  label: Embedding
-  description: You have embeddings and need to know how to use or compare them.
+LangChain:
+  label: LangChain
+  description: You've found LangChain and need to know how to build workflows or chains with it.
 
-Latency_Issue:
-  label: Latency Issue
-  description: You are facing slow responses and need to optimize the model's performance.
+LLAMA:
+  label: LLAMA
+  description: You've found the LLAMA model available and need to know how to use it.
 
-Bias:
-  label: Bias
-  description: You have biased outputs and need to know how to mitigate them.
+TensorFlow:
+  label: TensorFlow
+  description: You've found TensorFlow available and need to know how to train or deploy models with it.
 
-Adversarial_Prompt:
-  label: Adversarial Prompt
-  description: You suspect malicious prompts and need to secure the model.
+PyTorch:
+  label: PyTorch
+  description: You've found PyTorch available and need to know how to train or deploy models with it.
 
-Cost_Usage:
-  label: Cost Usage
-  description: You want to monitor or reduce the cost of using LLM APIs.
+REST_API:
+  label: REST API
+  description: You've found a REST API and need to know how to interact with it for LLM tasks.
 
-Server_Config:
-  label: Server Config
-  description: You have a server configuration and need to deploy the model securely.
+GraphQL:
+  label: GraphQL
+  description: You've found a GraphQL API and need to know how to interact with it for LLM tasks.
 
-Inference_Script:
-  label: Inference Script
-  description: You have an inference script and need to optimize or scale it.
+Docker:
+  label: Docker
+  description: You've found Docker available and need to know how to containerize and deploy LLM workflows.
 
-Monitoring:
-  label: Monitoring
-  description: You want to track and log the model's performance and interactions.
+Kubernetes:
+  label: Kubernetes
+  description: You've found Kubernetes available and need to know how to orchestrate LLM deployments.
+
+Redis:
+  label: Redis
+  description: You've found Redis available and need to know how to use it for caching or queueing LLM results.
+
+MongoDB:
+  label: MongoDB
+  description: You've found MongoDB available and need to know how to store and retrieve LLM-related data.
+
+
