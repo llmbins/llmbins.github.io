@@ -1,6 +1,6 @@
 ---
 layout: page
-title: llmbins
+title: LLMbins
 ---
 
 ![logo](/assets/logo.png){:.logo}
