@@ -7,6 +7,6 @@ LLMToolkit is an interactive cheat sheet, designed to support developers, securi
 
 Find the project at https://llmbins.github.io
 
-Created by <a href="https://nl.linkedin.com/in/asifminhasnl" target="_blank">Asif Nawaz Minhas</a>
+Created by [Asif Nawaz Minhas](https://nl.linkedin.com/in/asifminhasnl)
 
 This project was based on the creation of John Woodman and was inspired by GTFOBins and LOLBAS. I relied heavily on WADComs site template to make this one.
