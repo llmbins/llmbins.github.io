@@ -1,14 +1,12 @@
-# WADComs [![Build Status][]][travis]
+# LLMbins [![Build Status][]][travis]
 
 [Build Status]: https://travis-ci.org/WADComs/WADComs.github.io.svg?branch=master
 [travis]: https://travis-ci.org/WADComs/WADComs.github.io
 
-WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
+LLMToolkit is an interactive cheat sheet, designed to support developers, security researchers, and AI practitioners working with large language models (LLMs). It contains a comprehensive list of tools, frameworks, and techniques for building, fine-tuning, deploying, and securing LLM-based applications.
 
-Find the project at https://WADComs.github.io
+Find the project at https://llmbins.github.io
 
-Created by [John Woodman](https://twitter.com/JohnWoodman15)
+Created by <a href="https://nl.linkedin.com/in/asifminhasnl" target="_blank">Asif Nawaz Minhas</a>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JohnWoodman)
-
-[<img src="assets/WCS_button.png" width="15%" height="15%">](https://secure.wcs.org/donate/keep-world-wild)
+This project was based on the creation of John Woodman and was inspired by GTFOBins and LOLBAS. I relied heavily on WADComs site template to make this one.
