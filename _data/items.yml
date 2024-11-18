@@ -1,32 +1,61 @@
 ---
-Username:
-  label: Username
-  description: You've found username(s) and need to know what you can do with them.
+API_Key:
+  label: API Key
+  description: You have an API key and need to know what you can do with it.
 
-Password:
-  label: Password
-  description: You've found password(s) and need to know what you can do with them.
+Prompt:
+  label: Prompt
+  description: You have a prompt and need to know how to improve or optimize it.
 
-No_Creds:
-  label: No Creds
-  description: You don't have any usernames or passwords and need to know what you can still do.
+Model_Checkpoint:
+  label: Model Checkpoint
+  description: You have a model checkpoint and need to know how to load or fine-tune it.
 
-Hash:
-  label: Hash
-  description: You've found hash(es) and need to know what you can do with them.
+Tokens:
+  label: Tokens
+  description: You need to manage token usage and understand their limitations.
 
-TGS:
-  label: TGS
-  description: You've found a user's Ticket Granting Service and need to know what you can do with it.
-  
-TGT:
-  label: TGT
-  description: You've found a user's or computer Ticket Granting Ticket and need to know what you can do with it.
-  
-PFX:
-  label: PFX
-  description: You've found a computer PFX file, which is in a PKCS#12 format, and need to know what you can do with it.
+Dataset:
+  label: Dataset
+  description: You have a dataset and need to know how to preprocess or use it for training.
 
-Shell:
-  label: Shell
-  description: You have a shell on the Windows host and need to know what you can do.
+Response:
+  label: Response
+  description: You have a model's response and want to analyze or refine it.
+
+Logs:
+  label: Logs
+  description: You have logs from a model interaction and need to debug or analyze them.
+
+Embedding:
+  label: Embedding
+  description: You have embeddings and need to know how to use or compare them.
+
+Latency_Issue:
+  label: Latency Issue
+  description: You are facing slow responses and need to optimize the model's performance.
+
+Bias:
+  label: Bias
+  description: You have biased outputs and need to know how to mitigate them.
+
+Adversarial_Prompt:
+  label: Adversarial Prompt
+  description: You suspect malicious prompts and need to secure the model.
+
+Cost_Usage:
+  label: Cost Usage
+  description: You want to monitor or reduce the cost of using LLM APIs.
+
+Server_Config:
+  label: Server Config
+  description: You have a server configuration and need to deploy the model securely.
+
+Inference_Script:
+  label: Inference Script
+  description: You have an inference script and need to optimize or scale it.
+
+Monitoring:
+  label: Monitoring
+  description: You want to track and log the model's performance and interactions.
+
