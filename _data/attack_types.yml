@@ -1,15 +1,29 @@
 ---
-Enumeration:
-  label: Enumeration
-  description: Command focuses on enumeration.
+PromptEngineering:
+  label: Prompt Engineering
+  description: Commands related to crafting, optimizing, and testing prompts for various use cases.
 
-Exploitation:
-  label: Exploitation
-  description: Command focuses on exploitation.
+FineTuning:
+  label: Fine-Tuning
+  description: Commands for training and adapting models for specific tasks.
 
-Persistence:
-  label: Persistence
-  description: Command focuses on persistence.
-PrivEsc:
-  label: Privilege Escalation
-  description: Command focuses on privilege escalation.
+Inference:
+  label: Inference
+  description: Commands for interacting with models and generating predictions.
+
+Optimization:
+  label: Optimization
+  description: Commands for improving model performance and reducing costs or latency.
+
+Security:
+  label: Security
+  description: Commands for protecting models against misuse, adversarial attacks, or data leakage.
+
+Evaluation:
+  label: Evaluation
+  description: Commands for testing and assessing model accuracy, bias, and performance.
+
+Deployment:
+  label: Deployment
+  description: Commands for setting up and integrating models into production environments.
+
