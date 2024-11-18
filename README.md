@@ -1,7 +1,7 @@
 # LLMbins [![Build Status][]][travis]
 
-[Build Status]: https://travis-ci.org/WADComs/WADComs.github.io.svg?branch=master
-[travis]: https://travis-ci.org/WADComs/WADComs.github.io
+[Build Status]: https://travis-ci.org/llmbins/llmbins.github.io.svg?branch=master
+[travis]: https://travis-ci.org/llmbins/llmbins.github.io
 
 LLMToolkit is an interactive cheat sheet, designed to support developers, security researchers, and AI practitioners working with large language models (LLMs). It contains a comprehensive list of tools, frameworks, and techniques for building, fine-tuning, deploying, and securing LLM-based applications.
 
