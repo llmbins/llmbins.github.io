@@ -29,3 +29,7 @@ Deployment:
 Hallucination:
   label: Hallucination
   description: Commands for detecting and mitigating instances where the model generates fictitious, misleading, or false outputs.
+
+InstructionOverride:
+  label: Instruction Override
+  description: Commands for testing and bypassing system instructions, coercing models into unintended or adversarial behaviors.
