@@ -37,3 +37,15 @@ InstructionOverride:
 Privilege_Escalation:
   label: Privilege Escalation
   description: Commands that focus on testing or exploiting scenarios where unauthorized privileges are obtained, allowing escalation within systems or environments.
+
+Adversarial_Attacks:
+  label: Adversarial Attacks
+  description: Commands for testing the model's resistance to adversarial or manipulative inputs that attempt to exploit its weaknesses.
+
+Data_Poisoning:
+  label: Data Poisoning
+  description: Commands for injecting malicious or incorrect data into training or fine-tuning workflows to manipulate the model's behavior.
+
+Data_Exfiltration:
+  label: Data Exfiltration
+  description: Commands for testing how the model handles sensitive or confidential data and prevents unauthorized data leaks.
