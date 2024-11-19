@@ -4,15 +4,15 @@ PromptEngineering:
 
 FineTuning:
   label: Fine-Tuning
-  description: Commands for training and adapting models for specific tasks.
+  description: Commands for training and adapting models for specific tasks. In the context of AI red teaming, fine-tuning workflows are tested for vulnerabilities such as prompt injection and data poisoning to ensure model security and integrity.
 
 Inference:
   label: Inference
-  description: Commands for interacting with models and generating predictions.
+  description: Commands for interacting with models and generating predictions. AI red teaming during inference identifies how the model responds to adversarial inputs, such as misleading prompts or malicious payloads, ensuring robustness under attack scenarios.
 
 Optimization:
   label: Optimization
-  description: Commands for improving model performance and reducing costs or latency.
+  description: Commands for improving model performance and reducing costs or latency. In AI red teaming, optimization techniques strengthen models against adversarial attacks while maintaining performance and reducing susceptibility to manipulation.
 
 Security:
   label: Security
