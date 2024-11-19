@@ -27,5 +27,5 @@ OS:
   - Cloud
   - Local
 references:
-  - https://www.promptingguide.ai/prompts/adversarial-prompting/toxicity
+  - https://www.deepchecks.com/glossary/llm-toxicity/
 ---
