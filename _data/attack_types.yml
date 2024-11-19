@@ -33,3 +33,7 @@ Hallucination:
 InstructionOverride:
   label: Instruction Override
   description: Commands for testing and bypassing system instructions, coercing models into unintended or adversarial behaviors.
+
+Privilege_Escalation:
+  label: Privilege Escalation
+  description: Commands that focus on testing or exploiting scenarios where unauthorized privileges are obtained, allowing escalation within systems or environments.
