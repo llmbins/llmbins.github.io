@@ -20,7 +20,7 @@ services:
   - Anthropic
 attack_types:
   - Security
-  - Information_Disclosure
+  - Prompt_Engineering
 OS:
   - Cloud
   - Local
