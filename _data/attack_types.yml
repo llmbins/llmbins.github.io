@@ -1,4 +1,3 @@
----
 PromptEngineering:
   label: Prompt Engineering
   description: Commands related to crafting, optimizing, and testing prompts for various use cases.
@@ -27,3 +26,6 @@ Deployment:
   label: Deployment
   description: Commands for setting up and integrating models into production environments.
 
+Hallucination:
+  label: Hallucination
+  description: Commands for detecting and mitigating instances where the model generates fictitious, misleading, or false outputs.
