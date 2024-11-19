@@ -1,4 +1,3 @@
----
 Cloud:
   label: Cloud
   description: Command can be run in a cloud environment (e.g., AWS, Azure, GCP).
@@ -27,6 +26,10 @@ MacOS:
   label: MacOS
   description: Command can be executed in a MacOS environment.
 
-Edge:
-  label: Edge
-  description: Command can be executed on edge devices for on-site LLM applications.
+Bare_Metal:
+  label: Bare Metal
+  description: Command can be executed directly on physical hardware without virtualization or containerization.
+
+Mobile:
+  label: Mobile
+  description: Command can be executed in mobile environments, such as iOS or Android.
