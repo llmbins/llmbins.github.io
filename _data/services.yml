@@ -43,6 +43,10 @@ PyTorch:
   label: PyTorch
   description: You've found PyTorch available and need to know how to train or deploy models with it.
 
+NVIDIA:
+  label: NVIDIA
+  description: You've found NVIDIA tools or frameworks available and need to know how to utilize them for LLM tasks. This includes tools like Garak, which is designed for probing LLM vulnerabilities.
+
 REST_API:
   label: REST API
   description: You've found a REST API and need to know how to interact with it for LLM tasks.
@@ -66,5 +70,3 @@ Redis:
 MongoDB:
   label: MongoDB
   description: You've found MongoDB available and need to know how to store and retrieve LLM-related data.
-
-
