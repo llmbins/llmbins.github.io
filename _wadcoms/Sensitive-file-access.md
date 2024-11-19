@@ -36,5 +36,5 @@ OS:
   - Local
   - Linux
 references:
-  - https://portswigger.net/web-security/llm-attacks
+  - https://blog.intigriti.com/hacking-tools/top-4-new-attack-vectors-in-web-application-targets#1-llm-prompt-injection-attacks
 ---
