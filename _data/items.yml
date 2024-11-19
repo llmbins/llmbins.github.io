@@ -1,4 +1,3 @@
----
 API_Key:
   label: API Key
   description: You have an API key and need to know what you can do with it.
@@ -10,10 +9,6 @@ Prompt:
 Model_Checkpoint:
   label: Model Checkpoint
   description: You have a model checkpoint and need to know how to load or fine-tune it.
-
-Tokens:
-  label: Tokens
-  description: You need to manage token usage and understand their limitations.
 
 Dataset:
   label: Dataset
@@ -43,10 +38,6 @@ Adversarial_Prompt:
   label: Adversarial Prompt
   description: You suspect malicious prompts and need to secure the model.
 
-Cost_Usage:
-  label: Cost Usage
-  description: You want to monitor or reduce the cost of using LLM APIs.
-
 Server_Config:
   label: Server Config
   description: You have a server configuration and need to deploy the model securely.
@@ -59,3 +50,14 @@ Monitoring:
   label: Monitoring
   description: You want to track and log the model's performance and interactions.
 
+Access_Control:
+  label: Access Control
+  description: You want to verify or manage access permissions for LLM-related resources.
+
+Sensitive_Data:
+  label: Sensitive Data
+  description: You have sensitive data and need to protect it from unauthorized use or disclosure.
+
+Authentication:
+  label: Authentication
+  description: You need to test or configure authentication for APIs or other services.
