@@ -1,4 +1,3 @@
----
 OpenAI:
   label: OpenAI
   description: You've found the OpenAI API available and need to know what you can do with it.
@@ -10,10 +9,6 @@ HuggingFace:
 Anthropic:
   label: Anthropic
   description: You've found the Anthropic API available and need to know what you can do with it.
-
-Cohere:
-  label: Cohere
-  description: You've found the Cohere API available and need to know what you can do with it.
 
 AWS_Sagemaker:
   label: AWS Sagemaker
@@ -51,10 +46,6 @@ REST_API:
   label: REST API
   description: You've found a REST API and need to know how to interact with it for LLM tasks.
 
-GraphQL:
-  label: GraphQL
-  description: You've found a GraphQL API and need to know how to interact with it for LLM tasks.
-
 Docker:
   label: Docker
   description: You've found Docker available and need to know how to containerize and deploy LLM workflows.
@@ -62,11 +53,3 @@ Docker:
 Kubernetes:
   label: Kubernetes
   description: You've found Kubernetes available and need to know how to orchestrate LLM deployments.
-
-Redis:
-  label: Redis
-  description: You've found Redis available and need to know how to use it for caching or queueing LLM results.
-
-MongoDB:
-  label: MongoDB
-  description: You've found MongoDB available and need to know how to store and retrieve LLM-related data.
