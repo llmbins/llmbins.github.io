@@ -1,6 +1,6 @@
 ---
 description: |
-  PromptMap is a tool designed to test prompt injection attacks on ChatGPT instances by generating and testing attack prompts against system instructions. It helps identify potential vulnerabilities in the system prompts of LLM instances.
+  PromptMap is a tool designed to test adversarial prompt attacks on ChatGPT instances by generating and evaluating attack prompts against system instructions. It helps identify potential vulnerabilities in the system prompts of LLM instances.
 
   This guide explains how to install, configure, and use PromptMap effectively.
 
@@ -16,12 +16,16 @@ command: |
   python3 promptmap.py -n 10
 items:
   - API_Key
-  - Model_Configuration
+  - Prompt
+  - Logs
 services:
   - OpenAI
+  - Anthropic
+  - HuggingFace
 attack_types:
-  - Prompt_Injection
-  - System_Prompt_Analysis
+  - Prompt_Engineering
+  - Security
+  - Evaluation
 OS:
   - Cloud
   - Local
@@ -29,3 +33,4 @@ references:
   - https://github.com/utkusen/promptmap
   - https://platform.openai.com/docs
 ---
+
