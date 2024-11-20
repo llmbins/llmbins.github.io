@@ -28,6 +28,7 @@ OS:
   - Cloud
   - Local
   - Linux
+  - Windows
 references:
   - https://genai.owasp.org/llm-top-10/
 ---
